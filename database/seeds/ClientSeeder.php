@@ -13,25 +13,25 @@ class ClientSeeder extends Seeder
     {
         $data = [
             [
-                'name' => 'Gunner',
-                'address' => 'Velika',
-                'phone' => '0909090909090',
-                'capitalization' => 20000,
-                'loan' => 10000
+                'name' => 'marklie',
+                'address' => 'chuchu',
+                'phone' => '03535353',
+                'capitalization' => 25353,
+                'loan' => 1353
             ],
             [
-                'name' => 'Brawler',
-                'address' => 'Kaiator',
+                'name' => 'albert',
+                'address' => 'krukru',
                 'phone' => '09090909',
-                'capitalization' => 40000,
-                'loan' => 300000
+                'capitalization' => 42343,
+                'loan' => 30434530000
             ],
             [
-                'name' => 'Valkyrie',
-                'address' => 'Horizon',
-                'phone' => '09090956565',
+                'name' => 'jethor',
+                'address' => 'Hhuhu',
+                'phone' => '0956485585',
                 'capitalization' => 50000,
-                'loan' => 500000
+                'loan' => 535353
             ],
         ];
 
